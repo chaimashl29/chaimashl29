@@ -30,13 +30,11 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
-- 🔭 I’m currently working on AI-driven projects and graph neural networks
+- 🔭 I’m currently working on AI-driven projects.
 
 - 🌱 I’m currently learning Graph neural networks (GNNs)
 
-- 👨‍💻 All of my projects are available at [portfolio](https://mohammedhachoud.netlify.app)
-
-- 📫 How to reach me m.hachoud@esi-sba.dz
+- 📫 How to reach me c.sehili@esi-sba.dz
 <br/>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
