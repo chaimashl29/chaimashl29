@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Chaima Sehili, a <b>final year</b> undergraduate from <a href="https://www.esi-sba.dz/fr/"> <b>École Nationale Supérieure d'Informatique</b>, Sidi Bel Abbes </a>. <br>
+    Hello, I am Chaima Sehili, a <b>final year</b> student at <a href="https://www.esi-sba.dz/fr/"> <b>École Nationale Supérieure d'Informatique</b>, Sidi Bel Abbes </a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> in <b>AI and Data Science </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Constantly <b>seeking</b> to uncover insights hidden within Data and leveraging cutting-edge technologies to solve complex problems.
   </em> 
   <br>
