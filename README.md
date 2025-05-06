@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm SEHILI CHAIMA</h1>
 <h3 align="center">An Artificial Intelligence and Data Science Student at ESI SBA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaimashl29" alt="chaimashl29" /></a> </p>
+- 🔭 I’m currently **Machine Learning Intern**
 
-- 🔭 I’m currently working on **Diverse AI projects and Graph Neural Networks**
-
-- 🌱 I’m currently learning **Graph Neural Networks**
+- 🌱 I’m currently learning **Temporal Graphs**
 
 - 📫 How to reach me **c.sehili@esi-sba.dz**
 
